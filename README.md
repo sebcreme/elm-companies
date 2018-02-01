@@ -15,6 +15,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   delivery. Faster delivery and better collaboration for brands, broadcasters
   and everyone in between.
 
+#### Audiovisual Industry
+
+* [Nomalab](https://www.nomalab.com)
+  ([GitHub](https://github.com/nomalab)) - True digital logistics platform for producers, content owners, distributors, broadcasters and publishers. Full app in Elm frontend to backend.
+
 #### Automotive
 
 * [CARFAX](https://www.carfax.com/)
